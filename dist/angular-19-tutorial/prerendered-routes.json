@@ -1,0 +1,21 @@
+{
+  "routes": {
+    "/": {},
+    "/adduser": {},
+    "/attribute-directive": {},
+    "/built-in-pipes": {},
+    "/crud": {},
+    "/data-binding": {},
+    "/parent": {},
+    "/profile": {},
+    "/resourceapi": {},
+    "/reusable": {},
+    "/rf": {},
+    "/storage": {},
+    "/structural-directive": {},
+    "/tdf": {},
+    "/updateuser": {},
+    "/user": {},
+    "/viewuser": {}
+  }
+}
